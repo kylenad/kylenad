@@ -7,9 +7,9 @@ I am currently working on machine learning projects which can be integrated into
 
 
 ## Currently Working On
-- Reddit sentiment analysis machine learning program
-- Web-Application with integrated ML hosted with AWS
-- Front-end website copy (Twitter)
+- Game Engine
+- Exoplanet Temperature Approximation Machine Learning Model
+- Portfolio Website
 
 
 ## 🛠️ Languages and Tools
