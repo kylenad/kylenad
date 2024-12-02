@@ -1,15 +1,15 @@
 ## About Me
 
-I am a recent computer engineering and applied mathmematics graduate from the University of Rhode Island who is very passionate about data science and machine learning / AI. Several projects I have been apart of have involved transfer learning with transformer models (such as BERT) to achieve several tasks such as sentiment analysis or text classification. 
+I am a recent computer engineering and applied mathmematics graduate from the University of Rhode Island who is very passionate about data science and machine learning / AI. Several projects I have been apart of have involved transfer learning with transformer models (such as BERT) to achieve several tasks such as sentiment analysis or text classification. I also love software development and making applications that serve a purpose from the ground up.
 
-I am currently working on machine learning projects which can be integrated into existing web-applications to complete specific tasks. Much of my free time is spent on LeetCode in order to hone my problem solving skills and apply several different aspects of data structers & algorithms frequently.
+
 
 
 
 ## Currently Working On
-- Game Engine
-- Exoplanet Temperature Approximation Machine Learning Model
-- Portfolio Website
+- Game engine
+- Console game written in C++
+- Heart disease machine learning project
 
 
 ## 🛠️ Languages and Tools
